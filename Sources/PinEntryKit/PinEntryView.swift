@@ -1,3 +1,9 @@
+//
+//  PinEntryKit
+//
+//  Created by Kusal-Dev
+//
+
 import SwiftUI
 
 /// A full-screen PIN entry view with a custom numeric keypad.

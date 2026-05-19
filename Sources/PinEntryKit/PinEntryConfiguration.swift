@@ -1,3 +1,9 @@
+//
+//  PinEntryKit
+//
+//  Created by Kusal-Dev
+//
+
 import SwiftUI
 
 /// Configuration for the PIN entry view.

@@ -19,7 +19,12 @@ let package = Package(
         .target(
             name: "PinEntryKit",
             dependencies: []
-        )
+        ),
+        .testTarget(
+            name: "PinEntryKitTests",
+            dependencies: ["PinEntryKit"],
+            path: "Tests/PinEntryKitTests"
+        ),
     ]
 )
  

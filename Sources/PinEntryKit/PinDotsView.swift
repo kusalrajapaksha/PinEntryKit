@@ -1,3 +1,9 @@
+//
+//  PinEntryKit
+//
+//  Created by Kusal-Dev
+//
+
 import SwiftUI
 
 struct PinDotsView: View {
